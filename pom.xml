@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>td9</groupId>
-    <artifactId>td9</artifactId>
+    <groupId>td7</groupId>
+    <artifactId>td7</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <main-class>td9.Main</main-class>
+        <main-class>td7.Main</main-class>
         <java.release>18</java.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jacoco.version>0.8.10</jacoco.version>
