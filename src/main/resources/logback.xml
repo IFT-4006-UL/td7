@@ -15,11 +15,11 @@
     </appender>
 
     <!-- Remove all DEBUG logs -->
-    <logger name="td9" level="debug" additivity="false">
+    <logger name="td7" level="debug" additivity="false">
         <appender-ref ref="CONSOLE"/>
     </logger>
 
-    <logger name="td9.api.filters.RequestLoggerFilter" level="debug" additivity="false">
+    <logger name="td7.api.filters.RequestLoggerFilter" level="debug" additivity="false">
         <appender-ref ref="CONSOLE_REQUESTS"/>
     </logger>
 
